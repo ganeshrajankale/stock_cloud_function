@@ -1,0 +1,45 @@
+# cloud.google.com/go v0.75.0
+## explicit
+# cloud.google.com/go/storage v1.12.0
+## explicit
+# github.com/brkelkar/common_utils v0.0.0-20210113095354-21d14faa0f09
+## explicit
+github.com/brkelkar/common_utils/batch
+github.com/brkelkar/common_utils/databases
+github.com/brkelkar/common_utils/logger
+# github.com/denisenkom/go-mssqldb v0.0.0-20200428022330-06a60b6afbbc
+github.com/denisenkom/go-mssqldb
+github.com/denisenkom/go-mssqldb/internal/cp
+github.com/denisenkom/go-mssqldb/internal/decimal
+github.com/denisenkom/go-mssqldb/internal/querytext
+# github.com/golang-sql/civil v0.0.0-20190719163853-cb61b32ac6fe
+github.com/golang-sql/civil
+# github.com/jinzhu/inflection v1.0.0
+github.com/jinzhu/inflection
+# github.com/jinzhu/now v1.1.1
+github.com/jinzhu/now
+# go.uber.org/atomic v1.6.0
+go.uber.org/atomic
+# go.uber.org/multierr v1.5.0
+go.uber.org/multierr
+# go.uber.org/zap v1.16.0
+go.uber.org/zap
+go.uber.org/zap/buffer
+go.uber.org/zap/internal/bufferpool
+go.uber.org/zap/internal/color
+go.uber.org/zap/internal/exit
+go.uber.org/zap/zapcore
+# golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
+golang.org/x/crypto/md4
+# gorm.io/driver/sqlserver v1.0.5
+## explicit
+gorm.io/driver/sqlserver
+# gorm.io/gorm v1.20.11
+## explicit
+gorm.io/gorm
+gorm.io/gorm/callbacks
+gorm.io/gorm/clause
+gorm.io/gorm/logger
+gorm.io/gorm/migrator
+gorm.io/gorm/schema
+gorm.io/gorm/utils
